@@ -1,0 +1,9 @@
+Difficulty: I would say its hard the first time but it gets easier the more you play it, the reason being is that the spheres are set in an organized pattern. The spheres move pretty fast so it is hard to keep up with them. Since the spheres spawn in the pattern it takes muscle memeory to keep up which is why id say it is hard at first.
+
+3 Changes: I would want to add more moving spheres insted of 12 to give it more playability. The spheres are set in an order, to make it more unpredictble they should generate in different spots if I can find out how I could spawn them randomly which may also make the harder. I also wnt to add a counter of some kind so you know when you touched a sphere.
+
+Wow: I will be frank, I wouldn't say mine is very intresting and very simple, the most intresting part I can think of are mechanics from the book. The orbs glow, the orbs move towards you quickly, the orbs release particles.
+
+Fun: One of the reasons why I would say its fun is that it follows a pattern. It's like the google dinosaur game where you want to see how far you can get each time. It also feels satisfying keeping up with all of the orbs, like you get a feeling of accomplishment when you touched them all.
+
+Tedious: I feel a part that is tedious is that the game is very simple, touch against as many orbs as you can. Movement as well is very limited, you stuck between two walls and I could only figure out how to move the player left to right. If you want to touch all 12 orbs but miss one, you must resart the game, you can't go back to collect an orb that you missed.
